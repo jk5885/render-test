@@ -1,0 +1,7 @@
+POST http://localhost:3002/localhost:3001/api/notes
+Content-Type: application/json
+
+{
+    "content": "vskoodi",
+    "important": true
+}
